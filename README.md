@@ -1,4 +1,4 @@
-Tensroflow练习1
+tf练习，常见推荐模型，推荐系统推文
 ======
 
 相关数据集下载地址：链接:https://pan.baidu.com/s/1GMv7_3qruoVZBJMvN-afGA  密码:ako7
